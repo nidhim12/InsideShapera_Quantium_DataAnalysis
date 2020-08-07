@@ -1,0 +1,2 @@
+# InsideShapera_Quantium_DataAnalysis
+Virtual Internship from InsideShapera with Quantium
